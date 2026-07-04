@@ -62,7 +62,16 @@ the "Living room" camera.
 
 ## Camera feed examples
 
+Below are the English variants of each room. Click any thumbnail to view the full 1920×1080 image.
+The same icons are also available in Norwegian, Swedish, Danish, Finnish, German, French and Spanish
+(see the `output` directory).
 
+| | | |
+|:---:|:---:|:---:|
+| [<img src="output/bathroom_en.png" width="260" alt="Bathroom">](output/bathroom_en.png) | [<img src="output/bedroom_en.png" width="260" alt="Bedroom">](output/bedroom_en.png) | [<img src="output/diningroom_en.png" width="260" alt="Dining room">](output/diningroom_en.png) |
+| [<img src="output/garage_en.png" width="260" alt="Garage">](output/garage_en.png) | [<img src="output/garden_en.png" width="260" alt="Garden">](output/garden_en.png) | [<img src="output/gym_en.png" width="260" alt="Gym">](output/gym_en.png) |
+| [<img src="output/hallway_en.png" width="260" alt="Hallway">](output/hallway_en.png) | [<img src="output/kitchen_en.png" width="260" alt="Kitchen">](output/kitchen_en.png) | [<img src="output/laundry_en.png" width="260" alt="Laundry room">](output/laundry_en.png) |
+| [<img src="output/livingroom_en.png" width="260" alt="Living room">](output/livingroom_en.png) | [<img src="output/office_en.png" width="260" alt="Office">](output/office_en.png) | [<img src="output/toilet_en.png" width="260" alt="Toilet">](output/toilet_en.png) |
 
 ## Development
 
