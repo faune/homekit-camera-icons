@@ -60,6 +60,10 @@ room (=dummy camera) instance you add. During the Home app setup you need to ass
 HomeKit (in my instance Living room), and then you can access and control HomeKit devices from the AppleTV by accessing
 the "Living room" camera.
 
+## Camera feed examples
+
+
+
 ## Development
 
 The source XCF image is made using (Gimp)[https://gimp.org] and is located in ```src```. If you have Gimp installed you
