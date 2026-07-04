@@ -51,8 +51,8 @@ streaming a still image as a video stream is:
 **Note:** I am by no means a ffmpeg expert, but I tried tuning the above config to limit CPU load for the Raspberry Pi, 
 as it will need to transcode the image into live video stream for AppleTV to accept it as a camera.
 
-In the example above I have uploaded the images in this repo to my Raspberry Pi at path ```/home/pi/homekit-icons/```
-and configured one room (=dummy camera) for my Living room using the image ```/home/pi/homekit-icons/livingroom_en.png```. 
+In the example above I have uploaded the images in this repo to my Raspberry Pi at path ```/home/pi/homekit-camera-icons/```
+and configured one room (=dummy camera) for my Living room using the image ```/home/pi/homekit-camera-icons/output/livingroom_en.png```. 
 
 Once the room (=dummy camera) is added to Camera FFmpeg plugin, restart the child bridge and then pair the newly added
 dummy camera using the Home app on your iPhone. There is a QR code in the plugin configuration for you to scan for each
