@@ -75,7 +75,7 @@ The same icons are also available in Norwegian, Swedish, Danish, Finnish, German
 
 ## Development
 
-The source XCF image is made using (Gimp)[https://gimp.org] and is located in ```src```. If you have Gimp installed you
+The source XCF image is made using [Gimp](https://gimp.org) and is located in ```src```. If you have Gimp installed you
 can auto-generate ```png``` files by running the script ```generate_icons.sh```. The generated images will be rendered
 in the ```output``` directory.
 
