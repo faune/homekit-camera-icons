@@ -4,8 +4,8 @@ HomeKit icons for dummy camera feeds for exposing device controls on AppleTV
 ## Introduction
 
 As an avid HomeKit user, I have always been puzzled why I could not control my Home through the AppleTV.
-That is, until I added a HomeKit Secure Video (HSV) camera, and discovered that suddenly I was allowed to 
-control HomeKit devices _in the room_ the camera was installed.
+That is, until I added a HomeKit Secure Video (HSV) camera to my Home, and discovered that suddenly I 
+was allowed to control HomeKit devices _in the room_ the camera was installed.
 
 For reasons only Apple knows this limitation can actually be exploited using the fabulous 
 [Homebridge](https://homebridge.io) solution in combination with the 
