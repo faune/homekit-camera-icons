@@ -33,8 +33,8 @@ streaming a still image as a video stream is:
 {
   "name": "Living room",
   "videoConfig": {
-    "source": "-loop 1 -re -f image2 -framerate 15 -pix_fmt yuv420p -i /home/pi/homekit-icons/livingroom_en.png",
-    "stillImageSource": "-i /home/pi/homekit-icons/livingroom_en.png",
+    "source": "-loop 1 -re -f image2 -framerate 15 -pix_fmt yuv420p -i /home/pi/homekit-camera-icons/output/livingroom_en.png",
+    "stillImageSource": "-i /home/pi/homekit-camera-icons/output/livingroom_en.png",
     "audio": false,
     "mapvideo": "0:v",
     "mapaudio": "",
