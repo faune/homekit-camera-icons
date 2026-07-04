@@ -19,7 +19,7 @@ Nifty!
 
 You will need the following up and running in your house _before_ configuring this feature.
 
-1. A running [Homebridge](https://homebridge.io) server (I use a (Raspberry Pi 4)[https://www.raspberrypi.com] for this, and it works great!)
+1. A running [Homebridge](https://homebridge.io) server (I use a [Raspberry Pi 4](https://www.raspberrypi.com) for this, and it works great!)
 2. Search the Homebridge UI for plugin [Homebridge Camera FFmpeg](https://github.com/homebridge-plugins/homebridge-camera-ffmpeg) and install it successfully.
 3. Configure the Homebridge Camera FFmpeg plugin as a child bridge for optimal performance.
 4. Download images from this repo and upload them to your Homebridge server at a path of your choice where Homebridge have read access.
